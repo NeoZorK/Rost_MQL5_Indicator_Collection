@@ -282,6 +282,20 @@ SOFTWARE.
 
 🔗 **[LinkedIn Profile](https://www.linkedin.com/in/rostyslav-sh-)**
 
+## 💝 Support the Project
+
+If you find this collection of MQL5 indicators helpful and would like to support the development and maintenance of this project, consider making a donation to my Bitcoin wallet:
+
+**Bitcoin Address:** `bc1qm0ynz8tk2em3zr8agv5j3550vpm420z3hxdfkq`
+
+Your support helps me:
+- 🚀 Continue developing and improving indicators
+- 🐛 Fix bugs and maintain code quality
+- 📚 Create better documentation and examples
+- 💡 Develop new innovative trading tools
+
+Every donation, no matter how small, is greatly appreciated and motivates me to keep this project alive and growing!
+
 ## 📞 Contacts
 
 **Author:** Shcherbyna Rostyslav  
