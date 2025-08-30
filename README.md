@@ -6,6 +6,31 @@
 
 > **A comprehensive collection of free MQL5 indicators for MetaTrader 5 trading platform**
 
+## 💰 Support the Project
+
+If you find these indicators helpful and would like to support the development,
+consider making a donation:
+
+### Bitcoin (BTC)
+**Wallet Address**: `bc1qm0ynz8tk2em3zr8agv5j3550vpm420z3hxdfkq`
+
+[![Bitcoin](https://img.shields.io/badge/Bitcoin-Donate-orange.svg?style=flat&logo=bitcoin)](bitcoin:bc1qm0ynz8tk2em3zr8agv5j3550vpm420z3hxdfkq)
+
+> 💡 **QR Code**: Scan the QR code below or copy the wallet address above to send your donation.
+
+<div align="center">
+
+![Bitcoin QR Code](https://api.qrserver.com/v1/create-qr-code/?size=200x200&data=bc1qm0ynz8tk2em3zr8agv5j3550vpm420z3hxdfkq)
+
+</div>
+
+### Why Support?
+- 🚀 **Continuous Development**: Help fund new features and improvements
+- 🐛 **Bug Fixes**: Support faster bug resolution and updates
+- 📚 **Documentation**: Better documentation and tutorials
+- 💡 **New Indicators**: Development of additional trading tools
+- 🌟 **Community**: Help grow the MQL5 trading community
+
 ## 🚀 Overview
 
 This repository contains a curated collection of **free MQL5 indicators** collected from various sources across the internet. These indicators are designed to enhance your trading analysis and provide valuable insights into market conditions.
@@ -282,19 +307,7 @@ SOFTWARE.
 
 🔗 **[LinkedIn Profile](https://www.linkedin.com/in/rostyslav-sh-)**
 
-## 💝 Support the Project
 
-If you find this collection of MQL5 indicators helpful and would like to support the development and maintenance of this project, consider making a donation to my Bitcoin wallet:
-
-**Bitcoin Address:** `bc1qm0ynz8tk2em3zr8agv5j3550vpm420z3hxdfkq`
-
-Your support helps me:
-- 🚀 Continue developing and improving indicators
-- 🐛 Fix bugs and maintain code quality
-- 📚 Create better documentation and examples
-- 💡 Develop new innovative trading tools
-
-Every donation, no matter how small, is greatly appreciated and motivates me to keep this project alive and growing!
 
 ## 📞 Contacts
 
